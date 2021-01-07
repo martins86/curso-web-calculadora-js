@@ -1,7 +1,7 @@
 {
   "name": "poc-calculadora-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Poc CalculadoraJs com BDD, Jasmine e Travis.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/martins86/poc-calculadora-js.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Thiago Martins de Freitas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/martins86/poc-calculadora-js/issues"
