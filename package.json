@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/martins86/poc-calculadora-js/issues"
   },
-  "homepage": "https://github.com/martins86/poc-calculadora-js#readme"
+  "homepage": "https://github.com/martins86/poc-calculadora-js#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
 }
