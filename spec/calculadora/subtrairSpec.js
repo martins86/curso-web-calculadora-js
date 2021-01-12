@@ -1,4 +1,4 @@
-describe('Testando o Calculadora.Adicionar:', () => {
+describe('Testando o Calculadora.subtrair:', () => {
 
     let Calculadora = require('./../../src/js/calculadora.js');
 
