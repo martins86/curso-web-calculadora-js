@@ -1,4 +1,4 @@
-# Poc CalculadoraJs com BDD, Jasmine e Travis
+# Poc CalculadoraJs com BDD, Jasmine e Travis [![Build Status][travis-img]][travis-url]
 
 > Criando uma calculadora seguindo as boas práticas BDD.
 
@@ -13,7 +13,6 @@
 ![GitHub package.json version][version-img]
 ![GitHub top language][language-img]
 [![GitHub license][license-img]][license-url]
-[![Build Status][travis-img]][travis-url]
 ![GitHub last commit][commit-img]
 
 <br>
