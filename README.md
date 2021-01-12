@@ -14,6 +14,7 @@
 ![GitHub top language][language-img]
 [![GitHub license][license-img]][license-url]
 [![Build Status][travis-img]][travis-url]
+![GitHub last commit][commit-img]
 
 <br>
 
@@ -45,6 +46,7 @@
 [license-url]: https://github.com/martins86/poc-calculadora-js/blob/master/LICENSE
 [travis-img]: https://travis-ci.com/martins86/poc-calculadora-js.svg?branch=master
 [travis-url]: https://travis-ci.com/martins86/poc-calculadora-js
+[commit-img]: https://img.shields.io/github/last-commit/martins86/poc-calculadora-js
 [npm-img]: https://img.shields.io/npm/v/npm
 [bootstrap-img]: https://img.shields.io/github/package-json/dependency-version/martins86/poc-calculadora-js/dev/bootstrap
 [browserify-img]: https://img.shields.io/github/package-json/dependency-version/martins86/poc-calculadora-js/dev/browserify
